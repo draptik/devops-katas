@@ -46,7 +46,5 @@ again: just some ideas:
 
 ### Goal 3 - automate
 
-Make everything reprocable.
-
-Naybe this should be step 2, I'm not sure.
+Make everything reproducable.
 
