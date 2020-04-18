@@ -27,7 +27,7 @@ Setup system so that `hugo` doesn't have to be installed on the developer's syst
 The only files on the host system should be the content of the blog: Markdown files.
 
 - install `git`
-- install `docker` (docker should be executable without needing `sudo` priviledges)
+- install `docker` (docker should be executable without having to `sudo docker`)
 - find suitable docker "hugo" container, or create your own
 - learn how to mount docker volumes to persist blog content
 - (optional) git: organize docker configuration and blog content into separate repos
